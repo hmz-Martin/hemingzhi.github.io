@@ -38,7 +38,7 @@
 
 	    <img src="D:\个人主页/01-30.jpg" title = "Martin">
 
-	    <h><a href="file:///D:/个人主页/诗情画意.html" title="点击这里得到中文版（click here to get chinese information）">点击这里得到中文版（click here to get chinese information）</a></h>
+	    <h><a href="./诗情画意.html" title="点击这里得到中文版（click here to get chinese information）">点击这里得到中文版（click here to get chinese information）</a></h>
 
          <h1>
 
@@ -110,7 +110,7 @@
 
         <textarea cols="50" rows="10">Your massage....</textarea>
 
-		<a href="file:///D:/个人主页/szq.html" title="submit">submit</a>
+		<a href="./szq.html" title="submit">submit</a>
 
         </form> <hr>
 
