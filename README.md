@@ -36,7 +36,7 @@
 
 	<body>
 
-	    <img src="D:\个人主页/01-30.jpg" title = "Martin">
+	    <img src="./01-30.jpg" title = "Martin">
 
 	    <h><a href="./诗情画意.html" title="点击这里得到中文版（click here to get chinese information）">点击这里得到中文版（click here to get chinese information）</a></h>
 
