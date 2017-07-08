@@ -74,12 +74,6 @@
 
 			    Chinese name:He MingZhi<br/>
 
-			    Birthday:1999.07.07<br/>
-
-				Nationlity:China<br/>
-
-				Gender:Male<br/>
-
 				Hobbies:Swimming、Basketball、Traveling、Video making.<br/>
 
 				Education:<br/>
