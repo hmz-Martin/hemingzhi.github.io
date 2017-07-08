@@ -8,7 +8,7 @@
 
 		      <style type="text/css">
 
-			  img{weight:200px;height:200px;text-align:right;position:absolute;left:1000px;}
+			  img{weight:200px;height:200px;text-align:right;position:absolute;left:1100px;}
 
 			  h{font-size:16px;text-align:left}
 
