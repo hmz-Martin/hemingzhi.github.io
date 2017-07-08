@@ -10,11 +10,11 @@
 
 		      <style type="text/css">
 
-			  img{weight:200px;height:200px;text-align:right;position:absolute;left:1500px;}
+			  img{weight:200px;height:200px;text-align:right;position:absolute;left:1000px;}
 
 			  h{font-size:16px;text-align:left}
 
-		      h1{font-size:56px;color:pink;text-align:center;}
+			  h1{font-size:56px;color:pink;text-align:center;}
 
 			  p1{font-size:32px;color:red;text-align:center;}
 
@@ -54,7 +54,7 @@
 
         <hr>
 
-        <p1>First of all, I am a college student in USM. Before the life of college, this is a small introduction of my information. Until 2017, I have finished my primary school and my high school life.		
+        <p1>I am a college student in USM. Before starting my college life, I write here a small introduction of myself. 		
 
 		</p1>
 
@@ -62,7 +62,7 @@
 
 		<div>
 
-		    <h2>Martin's detailed information
+		    <h2>About Martin
 
 			</h2>
 
@@ -100,7 +100,7 @@
 
 	    <form action="save.php" method="post" >
 
-        <label>It's my honor to get your massage</label><br/>
+        <label>It's my honor to receive your massage</label><br/>
 
         <textarea cols="50" rows="10">Your massage....</textarea>
 
